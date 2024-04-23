@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE categories
+[
+<!ELEMENT categories (sneakers, beverages)>
+<!ELEMENT sneakers (categoriesItem*)>
+<!ELEMENT others (sports, slipers)>
+<!ELEMENT sports (categoriesItem*)>
+<!ELEMENT slipers (categoriesItem*)>
+<!ELEMENT menuItem (name?, size?, price, description?)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT size (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT imageURL (#PCDATA)>
+]>
+
+<categories>
+    <sneakers>
+     <categoriesItem>
+            <name>
+                NIKE AIR JORDAN ZY009
+            </name>
+            <price>
+                520.00
+            </price>
+            <description>
+                Step into sleek style and unbeatable performance with the NIKE AIR JORDAN ZY009, featuring a breathable mesh upper, durable rubber outsole, and iconic swoosh logo for the ultimate blend of comfort and athletic elegance.
+            </description>
+            <imageURL>1.jpg</imageURL>
+        </categoriesItem>
+        <categoriesItem>
+            <name>
+                PUMA V12 LEATHER
+            </name>
+            <price>
+                469.00
+            </price>
+            <description>
+               Elevate your stride with the PUMA V12 LEATHER in OLIVE GREEN, crafted with premium leather, sleek design, and PUMA's signature comfort technology for a luxurious fusion of style and performance.
+            </description>
+            <imageURL>2.jpg</imageURL>
+        </categoriesItem>
+        <categoriesItem>
+            <name>
+                ADIDAS BLACK MOON BATMAN 
+            </name>
+            <price>
+                259.00
+            </price>
+            <description>
+               Sleek, stylish, and comfortable, these shoes elevate your look with a bold it's design and premium materials for confident strides in every step.
+            </description>
+            <imageURL>3.jpg</imageURL>
+        </categoriesItem>
+        <categoriesItem>
+            <name>
+                NEW BALANCE SMART CASUAL Y1
+            </name>
+            <price>
+                219.00
+            </price>
+            <description>
+               Introducing New Balance CNY Rare shoes, a limited-edition celebration of style and heritage, perfect for discerning collectors seeking standout additions to their inventory.
+            </description>
+            <imageURL>4.jpg</imageURL>
+        </categoriesItem>
+        <categoriesItem>
+            <name>
+                NEW BALANCE BEST MOON WALKING
+            </name>
+            <price>
+                750.00
+            </price>
+            <description>
+                Explore the New Balance Best Moon Walking shoes, meticulously crafted for unparalleled comfort and style, ideal for moonlit strolls and urban adventures alike.
+            </description>
+            <imageURL>5.jpg</imageURL>
+        </categoriesItem>
+        <categoriesItem>
+            <name>
+                NIKE AIRMAX D14
+            </name>
+            <price>
+                569.00
+            </price>
+            <description>
+                Discover the Nike AirMax D14, a fusion of style and performance engineered to elevate your stride with unparalleled comfort and iconic Nike design.
+            </description>
+            <imageURL>6.jpg</imageURL>
+        </categoriesItem>
+        <categoriesItem>
+            <name>
+                PUMA XSHREDDED 2
+            </name>
+            <price>
+                699.00
+            </price>
+            <description>
+                Unveil the Puma XShredded 2, a pinnacle of style and performance, designed to enhance your workout with cutting-edge technology and Puma's signature flair.
+            </description>
+            <imageURL>7.jpg</imageURL>
+        </categoriesItem>
+        <categoriesItem>
+            <name>
+                VANS X PADIN
+            </name>
+            <price>
+                469.99
+            </price>
+            <description>
+               Introducing the Vans X Padin Musa Malaysia collaboration, a unique blend of Malaysian heritage and Vans' iconic style, bringing a touch of local culture to your footwear collection.
+            </description>
+            <imageURL>8.jpg</imageURL>
+        </categoriesItem>
+    </sneakers>
+    <others>
+        <sports>
+            <categoriesItem>
+                <name>
+                    PUMA XBOLT SPIKES    
+                </name>
+                <price>
+                    539.99
+                </price>
+                <description>
+                    Experience the Puma XBOLT Spikes: crafted for speed, precision, and unmatched performance on the track.
+                </description>
+                <imageURL>9.jpg</imageURL>
+            </categoriesItem>
+            <categoriesItem>
+                <name>
+                    NIKE AIRMAX RUNNING SHOES X12   
+                </name>
+                <price>
+                    559.00
+                </price>
+                <description>
+                    Unleash your potential with Nike AirMax Running Shoes X12, engineered for exceptional performance with a blend of comfort, style, and innovation.
+                </description>
+                <imageURL>10.jpg</imageURL>
+            </categoriesItem>
+            <categoriesItem>
+                <name>
+                    NEW BALANCE SPARKING P1   
+                </name>
+                <price>
+                    524.00
+                </price>
+                <description>
+                    The 1080 delivers top-of-the-line performance to every kind of runner, whether you’re training for world-class competition, or catching a rush hour train. 
+                </description>
+                <imageURL>11.jpg</imageURL>
+            </categoriesItem>
+            <categoriesItem>
+                <name>
+                    NIKE INFINITYRN 4    
+                </name>
+                <price>
+                    459.99
+                </price>
+                <description>
+                    Enjoy maximum cushioning and comfort with ReactX foam, a water-resistant membrane, and a snug fit.
+                </description>
+                <imageURL>15.jpg</imageURL>
+            </categoriesItem>
+            <categoriesItem>
+                <name>
+                    NIKE VOMERO 17    
+                </name>
+                <price>
+                    759.99
+                </price>
+                <description>
+                    Experience enhanced comfort with a dual-density midsole, ZoomX and Cushlon 3.0 foam, and a breathable mesh upper.
+                </description>
+                <imageURL>16.jpg</imageURL>
+            </categoriesItem>
+            <categoriesItem>
+                <name>
+                    NIKE FREE METCON 5    
+                </name>
+                <price>
+                    569.99
+                </price>
+                <description>
+                    Versatile shoe combining flexibility, stability, and a revamped upper for cardio and agility workouts.
+                </description>
+                <imageURL>17.jpg</imageURL>
+            </categoriesItem>
+        </sports>
+        <slipers>
+            <categoriesItem>
+                <name>
+                    SKETCHERS NEW FLIP FLOP WOMEN WEARS    
+                </name>
+                <price>
+                    249.00
+                </price>
+                <description>
+                    TStep into comfort and style with Skechers' latest Flip Flop for women, designed to elevate your summer wardrobe with effortless chic and unparalleled comfort. 
+                </description>                
+                <imageURL>12.jpg</imageURL>
+            </categoriesItem>
+            <categoriesItem>
+                <name>
+                    BONIA STYLISH ELLISH    
+                </name>
+                <price>
+                    230.00
+                </price>
+                <description>
+                Elevate your comfort and style with Bonia Stylish Ellish slippers, crafted with luxurious materials and sleek design to add a touch of sophistication to your everyday loungewear.
+                </description> 
+                <imageURL>13.jpg</imageURL>
+            </categoriesItem>
+            <categoriesItem>
+                <name>
+                    CROCS X Lisa Frank Classic Clogs    
+                </name>
+                <price>
+                    479.34
+                </price>
+                <description>
+               Experience the playful charm of Crocs X Lisa Frank Classic Clogs in kids' sizes, where iconic design meets comfort, bringing joy and color to every step.
+                </description> 
+                <imageURL>14.jpg</imageURL>
+            </categoriesItem>
+            <categoriesItem>
+                <name>
+                    NIKE AIR MAX 1    
+                </name>
+                <price>
+                    229.00
+                </price>
+                <description>
+                    The iconic Air Max 1 transformed into a slide, maintaining its cushioning and wavy design for warm weather. 
+                </description>                
+                <imageURL>18.jpg</imageURL>
+            </categoriesItem>
+            <categoriesItem>
+                <name>
+                    NIKE VICTORI ONE    
+                </name>
+                <price>
+                    299.00
+                </price>
+                <description>
+                    A must-have slide with a wider strap and softer foam for endless comfort during everyday activities.
+                </description>                
+                <imageURL>19.jpg</imageURL>
+            </categoriesItem>
+            <categoriesItem>
+                <name>
+                    NIKE OFFCOURT ADJUST    
+                </name>
+                <price>
+                    349.00
+                </price>
+                <description>
+                    Customize your comfort with an adjustable, padded strap and lightweight foam midsole for post-game and errands. 
+                </description>                
+                <imageURL>20.jpg</imageURL>
+            </categoriesItem>
+        </slipers>
+    </others>
+</categories>
